@@ -38,3 +38,6 @@ button {
 button:hover {
     background: #2980b9;
 }
+.dbutton{
+margin: 5px;
+}
